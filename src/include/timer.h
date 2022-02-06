@@ -15,3 +15,4 @@ intmax_t DeltaMs(Timestamp beg, Timestamp end);
 }  // namespace ky::timer
 
 #endif  // KY_TIMER_TIMER_H
+
